@@ -1,8 +1,10 @@
 # Hi there 👋
 
 ## About me
-- 🧠 I have a degree in software engineering.
-- 📢 I am one of the founders of the official organization of my university. Check it out! => [https://github.com/ubiobio](https://github.com/ubiobio)
+- I'm a **Full Stack Developer**.
+- I enjoy working on **mobile**, **web**, and **backend** development, always seeking to learn new technologies and improve my craft.
+- I have a degree in software engineering.
+- I am one of the founders of the official organization of my university. Check it out! => [https://github.com/ubiobio](https://github.com/ubiobio)
 
 ---
 
