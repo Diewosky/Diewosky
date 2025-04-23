@@ -15,8 +15,7 @@
 
 ---
 
-## 👤 Diego Gutierrez Mella  
-**_Diewosky_**  
+## 👤 Diego Gutierrez Mella   
 Ingeniero de Ejecución en Computación e Informática,  
 Universidad del Bío-Bío, Concepción
 
