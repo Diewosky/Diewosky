@@ -1,6 +1,6 @@
-# Hi there 👋
+# Diego Gutiérrez Mella 👋
 
-## About me
+## Sobre mí
 - **Desarrollador Full Stack**.
 - Me gusta el desarrollo móvil, web y backend, siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
 - Soy ingeniero informatico.
