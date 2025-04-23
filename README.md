@@ -2,7 +2,7 @@
 
 ## 🌐 Contacto y Enlaces
 
-- 💼 [LinkedIn](in/diego-andr%C3%A9s-guti%C3%A9rrez-mella-9b7a09268)  
+- 💼 [Linkedin](https://www.linkedin.com/in/diego-andr%C3%A9s-guti%C3%A9rrez-mella-9b7a09268/)  
 - 🌎 [Portafolio personal](https://diewosky.github.io/Portafolio-Diego-G/)
 
 ---
