@@ -27,7 +27,7 @@ Universidad del Bío-Bío, Concepción
 
 ### 📱 Desarrollo Móvil
 
-| Tech |
+| Tecnologías |
 | ---- |
 | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/-Retrofit-FF6F00?style=flat&logo=android&logoColor=white) ![Google Sign-In](https://img.shields.io/badge/-Google_Sign--In-4285F4?style=flat&logo=google&logoColor=white) |
 
