@@ -17,7 +17,7 @@ Universidad del Bío-Bío, Concepción
 
 ## 💻 My skills
 
-### Web Development
+### Desarrollo Web
 
 | Programming | Front End | Back End |
 | ----------- | --------- | -------- |
@@ -25,7 +25,7 @@ Universidad del Bío-Bío, Concepción
 
 ---
 
-### 📱 Mobile Development
+### 📱 Desarrollo Móvil
 
 | Tech |
 | ---- |
