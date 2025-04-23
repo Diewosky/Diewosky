@@ -3,7 +3,7 @@
 ## 🌐 Contacto y Enlaces
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
-- 🌎 [Portafolio personal](https://tusitio.com)
+- 🌎 [Portafolio personal]([https://tusitio.com](https://diewosky.github.io/Portafolio-Diego-G/))
 
 ---
 
