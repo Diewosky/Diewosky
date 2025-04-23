@@ -1,5 +1,12 @@
 # Diego Gutiérrez Mella 👋
 
+## 🌐 Contacto y Enlaces
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
+- 🌎 [Portafolio personal](https://tusitio.com)
+
+---
+
 ## Sobre mí
 - **Desarrollador Full Stack**.
 - Me gusta el desarrollo móvil, web y backend, siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
